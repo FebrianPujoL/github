@@ -1,0 +1,423 @@
+@media(min-width:1440px){
+    .background{
+        background: linear-gradient(to bottom,  #FFF4D4 0%, white 100%);
+        border-radius: 0px 0px 0px 130px;
+        height: 100%;
+    }
+    .logo{
+        margin-left: 35px;
+        margin-top: 20px;
+    }
+    .nav-text{
+        color: #B3ACA2;
+        font-weight: bold;
+    }
+    .nav-text-2{
+        font-weight: bold;
+        border: solid 1px red;
+        margin-right: 30px;
+        border-radius: 10px;
+    }
+    .design-inspiration{
+        font-family: Helvetica Neue;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 21px;
+        line-height: 120%;
+        display: flex;
+        align-items: center;
+        letter-spacing: 0.11em;
+        text-transform: uppercase;
+        color: grey;
+        margin-top: 357px;
+        margin-left: 220px;
+    }
+    .convallis{
+        font-family: Helvetica Neue;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 70px;
+        line-height: 85%;
+        display: flex;
+        align-items: center;
+        letter-spacing: -0.045em;
+        color: black;
+        margin-left: 220px;
+    }
+    .button-getin{
+        margin-left: 220px;
+        padding: 8px 44px;
+        font-family: Helvetica Neue;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 18px;
+    }
+    .text-1{
+        font-family: Helvetica Neue;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 31px;
+        line-height: 110%;
+        margin-left: 220px;
+        letter-spacing: -0.03em;
+        margin-top: 167px;
+        margin-right: 75px;
+    }
+    .img-potition{
+        margin-left: 220px;
+        width: 50px;
+    }
+    .text-CEO{
+        font-family: Helvetica Neue;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 20px;
+        line-height: 120%;
+        margin-left: 32px;
+        margin-top: -13px;
+    }
+    .text-CEO-1{
+        font-family: Helvetica Neue;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 100%;
+        margin-left: 32px;
+    }
+    .images-potition-2{
+        height: 585px;
+        margin-top: 357;
+        margin-left: 190px
+    }
+    .background-2{
+        background: #D8F6FF;
+        margin-top: 200px;
+    }
+    .text-title{
+        font-family: Helvetica;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 50px;
+        letter-spacing: -0.045em;
+        margin-right: 140px;
+        margin-bottom: 64px;
+        margin-left: 100px;
+    }
+    .text-body{
+        font-family: Helvetica;
+        font-size: 22px;
+        line-height: 90%;
+        letter-spacing: -0.01em;
+        margin-right: 140px;
+        margin-left: 100;
+        color: #23242A;
+    }
+    .peter-olexa{
+        height: 400px;
+        width: 720px;
+        margin-top: 113px;
+        margin-bottom:120px
+    }
+    .people-images{
+        margin-top: 185px;
+        height: 400px;
+        width: 321px;
+        margin-left: 80px;
+    } 
+    .design-text-title{
+        font-family: Helvetica;
+        font-weight: bold;
+        font-size: 43px;
+        line-height: 95%;
+        margin-top: 200px;
+    }
+    .design-text-body{
+        font-family: Helvetica;
+        font-weight: normal;
+        font-size: 23px;
+        line-height: 95%;
+        letter-spacing: -0.01em;
+        margin-right: 135px;
+        margin-top: 15px;
+        margin-bottom: 50px;
+    }
+    .link-experience{
+        font-weight: bold;
+        font-family: Helvetica;
+        margin-bottom: 150px;
+    }
+    .images-design{
+        height: 579px;
+        width: 515px;
+        margin-top: 20px;
+        margin-left: 80px;
+    }
+    .images-watches{
+        height: 579px;
+        width: 515px;
+        margin-top: 150px;
+        margin-bottom: 150px;
+    }
+    .design-text-title-2{
+        font-family: Helvetica;
+        font-weight: bold;
+        font-size: 43px;
+        line-height: 95%;
+        margin-top: 350px;
+        margin-left: 80px;
+    }
+    .design-text-body-2{
+        font-family: Helvetica;
+        font-weight: normal;
+        font-size: 23px;
+        line-height: 95%;
+        letter-spacing: -0.01em;
+        margin-right: 50px;
+        margin-left: 80px;
+    }
+    .link-experience-2{
+        font-weight: bold;
+        font-family: Helvetica;
+        margin-bottom: 150px;
+        margin-left: 80px;
+    }
+    .Design-concept{
+        font-family: Helvetica neue;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 100%;
+        text-align: center;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+        margin-top: 200px;
+    }
+    .concept-text{
+        font-family: Helvetica Neue;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 50px;
+        line-height: 85%;
+        text-align: center;
+        margin-left: 440px;
+        margin-right: 440px;
+        margin-top: 20px;
+        margin-bottom: 150px;
+    }
+    .card-potition{
+        margin-left: 150px;
+        margin-right: 15px;
+        margin-bottom: 200px;
+    }
+    .card-postiton-2 {
+        margin-right: 15px;
+        margin-bottom: 200px;
+    }
+    .card-title-name{
+        font-family: Helvetica Neue;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 44px;
+        line-height: 110%;
+    }
+    .card-body{
+        font-family: Helvetica Neue;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 24px;
+        line-height: 130%;
+    }
+    .card-text-edit{
+        font-family: Helvetica Neue;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 20px;
+        line-height: 115%;
+    }
+    .link-card{
+        color: rgba(17, 19, 30, 0.2);
+        text-decoration: none;
+        font-size: 15px;
+    }
+    .link-card-2{
+        font-size: 15px;
+    }
+    .Design-concept-2{
+        font-family: Helvetica neue;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 24px;
+        line-height: 100%;
+        text-align: left;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+        margin-top: 200px;
+        padding-top: 125px;
+        padding-left: 80px;
+    }
+    .concept-text-2{
+        font-family: Helvetica Neue;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 50px;
+        line-height: 85%;
+        text-align: left;
+        margin-top: 50px;
+        margin-bottom: 150px;
+        margin-right: 700px;
+        padding-left: 80px;
+        margin-bottom: 50px;
+    }
+    .design-text-body-3{
+        font-family: Helvetica;
+        font-weight: normal;
+        font-size: 23px;
+        line-height: 95%;
+        letter-spacing: -0.01em;
+        margin-right: 625px;
+        margin-left: 80px;
+    }
+    .images-icon{
+        margin-left: 65px;
+        margin-top: 15px;
+        height: 40px;
+    }
+    .title-icon{
+        font-family: Helvetica Neue;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 26px;
+        line-height: 120%;
+        margin-left: -100px;
+    }
+    .body-icon{
+        font-family: Helvetica Neue;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 20px;
+        line-height: 100%;
+        margin-left: -100px;
+    }
+    .concept-text-3{
+        font-family: Helvetica Neue;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 50px;
+        line-height: 85%;
+        text-align: left;
+        margin-top: 230px;
+        margin-right: 100px;
+        padding-left: 100px;
+        margin-bottom: 50px;
+    }
+    .link-potition{
+        margin-top: 230px;
+        margin-left: 248px;
+    }
+    .link-card-3{
+        font-size: 15px;
+        color: rgba(17, 19, 30, 0.2);
+        text-decoration: none;
+        font-size: 15px;
+    }
+    .border-card{
+            border: none;
+    }
+    .Design-concept-3{
+        font-family: Helvetica neue;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 20px;
+        line-height: 100%;
+        text-align: center;
+        letter-spacing: -1px;
+        text-transform: uppercase;
+        margin-top: -90px;
+        margin-right: 230px;
+        margin-left: 230px;
+        margin-bottom: 100px;
+    }
+    .Card-people{
+        font-family: Helvetica Neue;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 25px;
+        text-align: center;
+        line-height: 120%;
+    }
+    .Card-people-2{
+        font-family: Helvetica Neue;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 25px;
+        line-height: 120%;
+        text-align: center
+    }
+    .text-2{
+        font-family: Helvetica Neue;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 31px;
+        line-height: 110%;
+        margin-left: 355px;
+        letter-spacing: -0.03em;
+        margin-top: 100px;
+        margin-right: 355px;
+    }
+    .images-icon-2{
+        margin-left: 350px;
+        margin-top: 15px;
+        height: 56px;
+        margin-bottom: 100px;
+    }
+    .title-icon-2{
+        font-family: Helvetica Neue;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 20px;
+        line-height: 120%;
+        margin-left: -31px;
+    }
+    .body-icon-2{
+        font-family: Helvetica Neue;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 100%;
+        margin-left: -31px;
+    }
+    .background-3{
+        background: #FFF4D4;
+    }
+    .text-3{
+        font-family: Helvetica Neue;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 31px;
+        line-height: 110%;
+        margin-left: 100px;
+        letter-spacing: -0.03em;
+        margin-top: 100px;
+        margin-right: 75px;
+    }
+    .text-lorem{
+        font-family: Helvetica Neue;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 22px;
+        line-height: 130%;
+        margin-left: 100px;
+    }
+    .button-getin-2{
+        margin-left: 156px;
+        padding: 8px 44px;
+        font-family: Helvetica Neue;
+        font-style: normal;
+        font-weight: bold;
+        margin-top: 100px;
+        font-size: 18px;
+    }
+    .background-4{
+        background: black;
+    }
+}
