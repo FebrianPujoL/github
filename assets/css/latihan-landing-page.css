@@ -91,7 +91,11 @@
     }
     .background-2{
         background: #D8F6FF;
-        margin-top: 200px;
+        margin-top: 790px;
+    }
+    .row-position{
+        float: left;
+        margin-top: -587px;
     }
     .text-title{
         font-family: Helvetica;
