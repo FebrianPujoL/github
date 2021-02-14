@@ -19,7 +19,7 @@
         border-radius: 10px;
     }
     .design-inspiration{
-        font-family: Helvetica Neue;
+        font-family: Arial, Helvetica, sans-serif;
         font-style: normal;
         font-weight: 500;
         font-size: 21px;
@@ -33,7 +33,7 @@
         margin-left: 220px;
     }
     .convallis{
-        font-family: Helvetica Neue;
+        font-family: Arial, Helvetica, sans-serif;
         font-style: normal;
         font-weight: bold;
         font-size: 70px;
@@ -47,16 +47,16 @@
     .button-getin{
         margin-left: 220px;
         padding: 8px 44px;
-        font-family: Helvetica Neue;
+        font-family: Arial, Helvetica, sans-serif;
         font-style: normal;
         font-weight: bold;
         font-size: 18px;
     }
     .text-1{
-        font-family: Helvetica Neue;
+        font-family: Arial, Helvetica, sans-serif;
         font-style: normal;
         font-weight: bold;
-        font-size: 31px;
+        font-size: 28px;
         line-height: 110%;
         margin-left: 220px;
         letter-spacing: -0.03em;
@@ -68,7 +68,7 @@
         width: 50px;
     }
     .text-CEO{
-        font-family: Helvetica Neue;
+        font-family: Arial, Helvetica, sans-serif;
         font-style: normal;
         font-weight: bold;
         font-size: 20px;
@@ -77,7 +77,7 @@
         margin-top: -13px;
     }
     .text-CEO-1{
-        font-family: Helvetica Neue;
+        font-family: Arial, Helvetica, sans-serif;
         font-style: normal;
         font-weight: normal;
         font-size: 15px;
@@ -98,7 +98,7 @@
         margin-top: -587px;
     }
     .text-title{
-        font-family: Helvetica;
+        font-family: Arial, Helvetica, sans-serif;
         font-style: normal;
         font-weight: bold;
         font-size: 50px;
@@ -106,9 +106,10 @@
         margin-right: 140px;
         margin-bottom: 64px;
         margin-left: 100px;
+        margin-top: 115px;
     }
     .text-body{
-        font-family: Helvetica;
+        font-family: Arial, Helvetica, sans-serif;
         font-size: 22px;
         line-height: 90%;
         letter-spacing: -0.01em;
@@ -127,16 +128,17 @@
         height: 400px;
         width: 321px;
         margin-left: 80px;
+        margin-top: 115px;
     } 
     .design-text-title{
-        font-family: Helvetica;
+        font-family: Arial, Helvetica, sans-serif;
         font-weight: bold;
         font-size: 43px;
         line-height: 95%;
         margin-top: 200px;
     }
     .design-text-body{
-        font-family: Helvetica;
+        font-family: Arial, Helvetica, sans-serif;
         font-weight: normal;
         font-size: 23px;
         line-height: 95%;
@@ -147,7 +149,7 @@
     }
     .link-experience{
         font-weight: bold;
-        font-family: Helvetica;
+        font-family: Arial, Helvetica, sans-serif;
         margin-bottom: 150px;
     }
     .images-design{
@@ -163,7 +165,7 @@
         margin-bottom: 150px;
     }
     .design-text-title-2{
-        font-family: Helvetica;
+        font-family: Arial, Helvetica, sans-serif;
         font-weight: bold;
         font-size: 43px;
         line-height: 95%;
@@ -171,7 +173,7 @@
         margin-left: 80px;
     }
     .design-text-body-2{
-        font-family: Helvetica;
+        font-family: Arial, Helvetica, sans-serif;
         font-weight: normal;
         font-size: 23px;
         line-height: 95%;
@@ -181,12 +183,12 @@
     }
     .link-experience-2{
         font-weight: bold;
-        font-family: Helvetica;
+        font-family: Arial, Helvetica, sans-serif;
         margin-bottom: 150px;
         margin-left: 80px;
     }
     .Design-concept{
-        font-family: Helvetica neue;
+        font-family: Arial, Helvetica, sans-serif;
         font-style: normal;
         font-weight: 500;
         font-size: 24px;
@@ -197,7 +199,7 @@
         margin-top: 200px;
     }
     .concept-text{
-        font-family: Helvetica Neue;
+        font-family: Arial, Helvetica, sans-serif;
         font-style: normal;
         font-weight: bold;
         font-size: 50px;
@@ -218,21 +220,21 @@
         margin-bottom: 200px;
     }
     .card-title-name{
-        font-family: Helvetica Neue;
+        font-family: Arial, Helvetica, sans-serif;
         font-style: normal;
         font-weight: 500;
         font-size: 44px;
         line-height: 110%;
     }
     .card-body{
-        font-family: Helvetica Neue;
+        font-family: Arial, Helvetica, sans-serif;
         font-style: normal;
         font-weight: normal;
         font-size: 24px;
         line-height: 130%;
     }
     .card-text-edit{
-        font-family: Helvetica Neue;
+        font-family: Arial, Helvetica, sans-serif;
         font-style: normal;
         font-weight: normal;
         font-size: 20px;
@@ -247,7 +249,7 @@
         font-size: 15px;
     }
     .Design-concept-2{
-        font-family: Helvetica neue;
+        font-family: Arial, Helvetica, sans-serif;
         font-style: normal;
         font-weight: 500;
         font-size: 24px;
@@ -260,7 +262,7 @@
         padding-left: 80px;
     }
     .concept-text-2{
-        font-family: Helvetica Neue;
+        font-family: Arial, Helvetica, sans-serif;
         font-style: normal;
         font-weight: bold;
         font-size: 50px;
@@ -273,7 +275,7 @@
         margin-bottom: 50px;
     }
     .design-text-body-3{
-        font-family: Helvetica;
+        font-family: Arial, Helvetica, sans-serif;
         font-weight: normal;
         font-size: 23px;
         line-height: 95%;
@@ -287,7 +289,7 @@
         height: 40px;
     }
     .title-icon{
-        font-family: Helvetica Neue;
+        font-family: Arial, Helvetica, sans-serif;
         font-style: normal;
         font-weight: bold;
         font-size: 26px;
@@ -295,7 +297,7 @@
         margin-left: -100px;
     }
     .body-icon{
-        font-family: Helvetica Neue;
+        font-family: Arial, Helvetica, sans-serif;
         font-style: normal;
         font-weight: normal;
         font-size: 20px;
@@ -303,7 +305,7 @@
         margin-left: -100px;
     }
     .concept-text-3{
-        font-family: Helvetica Neue;
+        font-family: Arial, Helvetica, sans-serif;
         font-style: normal;
         font-weight: bold;
         font-size: 50px;
@@ -328,7 +330,7 @@
             border: none;
     }
     .Design-concept-3{
-        font-family: Helvetica neue;
+        font-family: Arial, Helvetica, sans-serif;
         font-style: normal;
         font-weight: normal;
         font-size: 20px;
@@ -342,7 +344,7 @@
         margin-bottom: 100px;
     }
     .Card-people{
-        font-family: Helvetica Neue;
+        font-family: Arial, Helvetica, sans-serif;
         font-style: normal;
         font-weight: bold;
         font-size: 25px;
@@ -350,7 +352,7 @@
         line-height: 120%;
     }
     .Card-people-2{
-        font-family: Helvetica Neue;
+        font-family: Arial, Helvetica, sans-serif;
         font-style: normal;
         font-weight: normal;
         font-size: 25px;
@@ -358,7 +360,7 @@
         text-align: center
     }
     .text-2{
-        font-family: Helvetica Neue;
+        font-family: Arial, Helvetica, sans-serif;
         font-style: normal;
         font-weight: bold;
         font-size: 31px;
@@ -375,7 +377,7 @@
         margin-bottom: 100px;
     }
     .title-icon-2{
-        font-family: Helvetica Neue;
+        font-family: Arial, Helvetica, sans-serif;
         font-style: normal;
         font-weight: bold;
         font-size: 20px;
@@ -383,7 +385,7 @@
         margin-left: -31px;
     }
     .body-icon-2{
-        font-family: Helvetica Neue;
+        font-family: Arial, Helvetica, sans-serif;
         font-style: normal;
         font-weight: normal;
         font-size: 15px;
@@ -395,7 +397,7 @@
         margin-bottom: 225px;
     }
     .text-3{
-        font-family: Helvetica Neue;
+        font-family: Arial, Helvetica, sans-serif;
         font-style: normal;
         font-weight: bold;
         font-size: 31px;
@@ -406,7 +408,7 @@
         margin-right: 75px;
     }
     .text-lorem{
-        font-family: Helvetica Neue;
+        font-family: Arial, Helvetica, sans-serif;
         font-style: normal;
         font-weight: normal;
         font-size: 22px;
@@ -418,7 +420,7 @@
     .button-getin-2{
         margin-left: 140px;
         padding: 12px 40px;
-        font-family: Helvetica Neue;
+        font-family : Arial, Helvetica, sans-serif;
         font-style: normal;
         font-weight: bold;
         margin-top: 115px;
@@ -427,7 +429,7 @@
     .background-footer{
         background: black;
     }.footer-text{
-        font-family: Helvetica Neue;
+        font-family: Arial, Helvetica, sans-serif;
         font-style: normal;
         font-weight: normal;
         font-size: 22px;
