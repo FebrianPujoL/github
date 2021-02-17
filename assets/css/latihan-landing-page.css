@@ -17,6 +17,7 @@
         border: solid 1px red;
         margin-right: 30px;
         border-radius: 10px;
+        margin-left: 25px;
     }
     .design-inspiration{
         font-family: Helvetica, sans-serif;
@@ -29,8 +30,9 @@
         letter-spacing: 0.11em;
         text-transform: uppercase;
         color: grey;
-        margin-top: 357px;
+        margin-top: 165px;
         margin-left: 220px;
+        margin-bottom: 50px;
     }
     .convallis{
         font-family: Helvetica, sans-serif;
@@ -46,10 +48,11 @@
     }
     .button-getin{
         margin-left: 220px;
-        padding: 8px 44px;
+        padding: 11px 40px;
         font-family: Helvetica, sans-serif;
         font-style: normal;
         font-weight: bold;
+        margin-top: 32px;
         font-size: 18px;
     }
     .text-1{
@@ -85,9 +88,10 @@
         margin-left: 32px;
     }
     .images-potition-2{
-        height: 585px;
-        margin-top: 357;
-        margin-left: 190px
+        height: 650px;
+        margin-top: 165px;
+        width: 515px;
+        margin-left: 189px;
     }
     .background-2{
         background: #D8F6FF;
@@ -95,7 +99,7 @@
     }
     .row-position{
         float: left;
-        margin-top: -587px;
+        margin-top: -420px;
     }
     .text-title{
         font-family: Helvetica, sans-serif;
@@ -213,11 +217,15 @@
     .card-potition{
         margin-left: 150px;
         margin-right: 15px;
+        border: none;
         margin-bottom: 200px;
+        box-shadow: 10px 10px 50px 3px rgb(39 92 141 / 10%);
     }
     .card-postiton-2 {
         margin-right: 15px;
         margin-bottom: 200px;
+        border: none;
+        box-shadow: 10px 10px 50px 3px rgb(39 92 141 / 10%);
     }
     .card-title-name{
         font-family: Helvetica, sans-serif;
@@ -248,7 +256,7 @@
     .link-card-2{
         font-size: 15px;
     }
-    .Design-concept-2{
+    .Design-concept-2 {
         font-family: Helvetica, sans-serif;
         font-style: normal;
         font-weight: 500;
@@ -282,6 +290,7 @@
         letter-spacing: -0.01em;
         margin-right: 625px;
         margin-left: 80px;
+        margin-bottom: 50px;
     }
     .images-icon{
         margin-left: 65px;
@@ -316,6 +325,24 @@
         padding-left: 100px;
         margin-bottom: 50px;
     }
+    .card-concept-1{
+        margin-left: 250px;
+        margin-right: 25px;
+        border: none;
+        margin-bottom: 200px;
+        box-shadow: 10px 10px 50px 3px rgb(39 92 141 / 10%);
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .card-concept-2{
+        margin-left: 0px;
+        margin-right: 25px;
+        border: none;
+        margin-bottom: 200px;
+        box-shadow: 10px 10px 50px 3px rgb(39 92 141 / 10%);
+        padding-left: 0px;
+        padding-right: 0px;
+    }
     .link-potition{
         margin-top: 230px;
         margin-left: 248px;
@@ -333,7 +360,7 @@
         font-family: Helvetica, sans-serif;
         font-style: normal;
         font-weight: normal;
-        font-size: 20px;
+        font-size: 23px;
         line-height: 100%;
         text-align: center;
         letter-spacing: -1px;
@@ -367,8 +394,8 @@
         line-height: 110%;
         margin-left: 355px;
         letter-spacing: -0.03em;
-        margin-top: 100px;
-        margin-right: 355px;
+        margin-top: 65px;
+        margin-right: 424px;
     }
     .images-icon-2{
         margin-left: 350px;
@@ -415,7 +442,7 @@
         line-height: 130%;
         margin-left: 150px;
         margin-bottom: 90px;
-        margin-right: 180px;
+        margin-right: 80px;
     }
     .button-getin-2{
         margin-left: 140px;
@@ -435,7 +462,7 @@
         font-size: 22px;
         line-height: 130%;
         margin-left: 140px;
-        margin-right: 100px;
+        margin-right: 55px;
         margin-top: 30px;
         margin-bottom: 155px;
     }
@@ -473,5 +500,6 @@
     .footer-end-2{
         margin-top: 15px;
         margin-left: 300px;
+        color: white;
     }
 }
