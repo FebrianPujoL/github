@@ -202,6 +202,9 @@
         text-transform: uppercase;
         margin-top: 200px;
     }
+    .line-img{
+        margin-left: 250px;
+    }
     .concept-text{
         font-family: Helvetica, sans-serif;
         font-style: normal;
@@ -265,7 +268,6 @@
         text-align: left;
         letter-spacing: 1px;
         text-transform: uppercase;
-        margin-top: 200px;
         padding-top: 125px;
         padding-left: 80px;
     }
@@ -276,7 +278,7 @@
         font-size: 50px;
         line-height: 85%;
         text-align: left;
-        margin-top: 50px;
+        margin-top: -200px;
         margin-bottom: 150px;
         margin-right: 700px;
         padding-left: 80px;
@@ -320,10 +322,10 @@
         font-size: 50px;
         line-height: 85%;
         text-align: left;
-        margin-top: 230px;
+        margin-top: 100px;
         margin-right: 100px;
         padding-left: 100px;
-        margin-bottom: 50px;
+        margin-bottom: 125px;
     }
     .card-concept-1{
         margin-left: 250px;
@@ -344,7 +346,7 @@
         padding-right: 0px;
     }
     .link-potition{
-        margin-top: 230px;
+        margin-top: 100px;
         margin-left: 248px;
     }
     .link-card-3{
@@ -394,14 +396,15 @@
         line-height: 110%;
         margin-left: 355px;
         letter-spacing: -0.03em;
-        margin-top: 65px;
+        margin-top: 225px;
         margin-right: 424px;
+        margin-bottom: 50px;
     }
     .images-icon-2{
         margin-left: 350px;
         margin-top: 15px;
         height: 56px;
-        margin-bottom: 100px;
+        margin-bottom: 200px;
     }
     .title-icon-2{
         font-family: Helvetica, sans-serif;
@@ -418,6 +421,23 @@
         font-size: 15px;
         line-height: 100%;
         margin-left: -31px;
+    }
+    .img-line-2{
+        margin-left: 225px;
+        height: 384px;
+        width: 251px;
+    }
+    .text-i-feel{
+        font-family: Helvetica, sans-serif;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 31px;
+        line-height: 110%;
+        margin-left: 360px;
+        letter-spacing: -0.03em;
+        margin-top: -200px;
+        margin-bottom: 50px;
+        margin-right: 75px;
     }
     .background-3{
         background: #FFF4D4;
@@ -444,13 +464,18 @@
         margin-bottom: 90px;
         margin-right: 80px;
     }
+    .img-line-3{
+        width: 273px;
+        margin-left: 155px;
+        height: 236px;
+    }
     .button-getin-2{
         margin-left: 140px;
         padding: 12px 40px;
         font-family : Helvetica, sans-serif;
         font-style: normal;
         font-weight: bold;
-        margin-top: 115px;
+        margin-top: -130px;
         font-size: 20px;
     }
     .background-footer{
@@ -477,17 +502,11 @@
         font-weight: bold;
     }
     .footer-body-text{
-        margin-bottom: 5px;
-        text-decoration: none;
-        margin-bottom: 5px;
         text-decoration: none;
         color: white;
     }
     .footer-body-text-2{
         color:#0E6FFF ;
-        margin-bottom: 5px;
-        text-decoration: none;
-        margin-bottom: 5px;
         text-decoration: none;
     }
     .border-footer{
