@@ -65,6 +65,7 @@
         letter-spacing: -0.03em;
         margin-top: 167px;
         margin-right: 75px;
+        margin-bottom: 25px;
     }
     .img-potition{
         margin-left: 220px;
@@ -110,7 +111,7 @@
         margin-right: 140px;
         margin-bottom: 64px;
         margin-left: 100px;
-        margin-top: 115px;
+        margin-top: -135px;
     }
     .text-body{
         font-family: Helvetica, sans-serif;
