@@ -39,7 +39,7 @@
         font-style: normal;
         font-weight: bold;
         font-size: 70px;
-        line-height: 85%;
+        line-height: 110%;
         display: flex;
         align-items: center;
         letter-spacing: -0.045em;
@@ -89,9 +89,9 @@
         margin-left: 32px;
     }
     .images-potition-2{
-        height: 650px;
+        height: 715px;
         margin-top: 165px;
-        width: 515px;
+        width: 518px;
         margin-left: 189px;
     }
     .background-2{
@@ -111,7 +111,7 @@
         margin-right: 140px;
         margin-bottom: 64px;
         margin-left: 100px;
-        margin-top: -135px;
+        margin-top: -75px;
     }
     .text-body{
         font-family: Helvetica, sans-serif;
@@ -139,14 +139,15 @@
         font-family: Helvetica, sans-serif;
         font-weight: bold;
         font-size: 43px;
-        line-height: 95%;
+        line-height: 110%;
         margin-top: 200px;
+        margin-bottom: 50px;
     }
     .design-text-body{
         font-family: Helvetica, sans-serif;
         font-weight: normal;
         font-size: 23px;
-        line-height: 95%;
+        line-height: 110%;
         letter-spacing: -0.01em;
         margin-right: 135px;
         margin-top: 15px;
@@ -175,16 +176,18 @@
         font-size: 43px;
         line-height: 95%;
         margin-top: 350px;
+        margin-bottom: 50px;
         margin-left: 80px;
     }
     .design-text-body-2{
         font-family: Helvetica, sans-serif;
         font-weight: normal;
         font-size: 23px;
-        line-height: 95%;
+        line-height: 110%;
         letter-spacing: -0.01em;
         margin-right: 50px;
         margin-left: 80px;
+        margin-bottom: 50px;
     }
     .link-experience-2{
         font-weight: bold;
@@ -196,25 +199,29 @@
         font-family: Helvetica, sans-serif;
         font-style: normal;
         font-weight: 500;
-        font-size: 24px;
+        font-size: 23px;
         line-height: 100%;
         text-align: center;
         letter-spacing: 1px;
         text-transform: uppercase;
         margin-top: 200px;
+        margin-bottom: 45px;
     }
     .line-img{
-        margin-left: 250px;
+        margin-left: 286px;
+        width: 366px;
+        height: 460px;
+        margin-top: -2px;
     }
     .concept-text{
         font-family: Helvetica, sans-serif;
         font-style: normal;
         font-weight: bold;
-        font-size: 50px;
+        font-size: 64px;
         line-height: 85%;
         text-align: center;
-        margin-left: 440px;
-        margin-right: 440px;
+        margin-left: 370px;
+        margin-right: 370px;
         margin-top: 20px;
         margin-bottom: 150px;
     }
@@ -231,12 +238,18 @@
         border: none;
         box-shadow: 10px 10px 50px 3px rgb(39 92 141 / 10%);
     }
+    .background-radius{
+        background: linear-gradient(to bottom, #FFF4D4 0%, white 100%);
+        border-radius: 15px 15px 0px 130px;
+        height: 100%;
+    }
     .card-title-name{
         font-family: Helvetica, sans-serif;
         font-style: normal;
         font-weight: 500;
         font-size: 44px;
         line-height: 110%;
+        margin-bottom: 25px;
     }
     .card-body{
         font-family: Helvetica, sans-serif;
@@ -251,6 +264,9 @@
         font-weight: normal;
         font-size: 20px;
         line-height: 115%;
+    }
+    .box-shadow{
+        box-shadow: 10px 10px 50px 3px rgba(39, 92, 141, 0.1);
     }
     .link-card{
         color: rgba(17, 19, 30, 0.2);
@@ -288,15 +304,15 @@
     .design-text-body-3{
         font-family: Helvetica, sans-serif;
         font-weight: normal;
-        font-size: 23px;
-        line-height: 95%;
+        font-size: 25px;
+        line-height: 110%;
         letter-spacing: -0.01em;
         margin-right: 625px;
         margin-left: 80px;
         margin-bottom: 50px;
     }
     .images-icon{
-        margin-left: 65px;
+        margin-left: 70px;
         margin-top: 15px;
         height: 40px;
     }
@@ -306,26 +322,26 @@
         font-weight: bold;
         font-size: 26px;
         line-height: 120%;
-        margin-left: -100px;
+        margin-left: -80px;
     }
     .body-icon{
         font-family: Helvetica, sans-serif;
         font-style: normal;
         font-weight: normal;
-        font-size: 20px;
-        line-height: 100%;
-        margin-left: -100px;
+        font-size: 18px;
+        line-height: 110%;
+        margin-left: -80px;
     }
     .concept-text-3{
         font-family: Helvetica, sans-serif;
         font-style: normal;
         font-weight: bold;
         font-size: 50px;
-        line-height: 85%;
+        line-height: 110%;
         text-align: left;
         margin-top: 100px;
         margin-right: 100px;
-        padding-left: 100px;
+        padding-left: 110px;
         margin-bottom: 125px;
     }
     .card-concept-1{
@@ -363,14 +379,14 @@
         font-family: Helvetica, sans-serif;
         font-style: normal;
         font-weight: normal;
-        font-size: 23px;
-        line-height: 100%;
+        font-size: 26px;
+        line-height: 110%;
         text-align: center;
         letter-spacing: -1px;
         text-transform: uppercase;
         margin-top: -90px;
-        margin-right: 230px;
-        margin-left: 230px;
+        margin-right: 185px;
+        margin-left: 185px;
         margin-bottom: 100px;
     }
     .Card-people{
@@ -380,6 +396,7 @@
         font-size: 25px;
         text-align: center;
         line-height: 120%;
+        margin-top: 25px;
     }
     .Card-people-2{
         font-family: Helvetica, sans-serif;
@@ -399,7 +416,7 @@
         letter-spacing: -0.03em;
         margin-top: 225px;
         margin-right: 424px;
-        margin-bottom: 50px;
+        margin-bottom: 20px;
     }
     .images-icon-2{
         margin-left: 350px;
@@ -413,7 +430,7 @@
         font-weight: bold;
         font-size: 20px;
         line-height: 120%;
-        margin-left: -31px;
+        margin-left: -70px;
     }
     .body-icon-2{
         font-family: Helvetica, sans-serif;
@@ -421,12 +438,15 @@
         font-weight: normal;
         font-size: 15px;
         line-height: 100%;
-        margin-left: -31px;
+        margin-left: -70px;
     }
     .img-line-2{
         margin-left: 225px;
         height: 384px;
         width: 251px;
+    }
+    .line-4{
+        margin-top: -600px;
     }
     .text-i-feel{
         font-family: Helvetica, sans-serif;
@@ -437,8 +457,8 @@
         margin-left: 360px;
         letter-spacing: -0.03em;
         margin-top: -200px;
-        margin-bottom: 50px;
-        margin-right: 75px;
+        margin-bottom: 20px;
+        margin-right: 435px;
     }
     .background-3{
         background: #FFF4D4;
