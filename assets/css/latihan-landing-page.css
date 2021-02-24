@@ -513,11 +513,14 @@
         margin-right: 55px;
         margin-top: 30px;
         margin-bottom: 155px;
+        opacity: 0.5;
+        color: white;
     }
     .logo-footer{
         margin-left: 140px;
         color: white;
         margin-top: 75px;
+        opacity: 1
     }
     .list-footer{
         margin-bottom: 33px;
@@ -538,6 +541,8 @@
     .footer-end{
         margin-left: 80px;
         margin-top: 15px;
+        opacity: 0.5;
+        color: white;
     }
     .footer-end-2{
         margin-top: 15px;
