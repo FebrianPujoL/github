@@ -30,7 +30,7 @@
         letter-spacing: 0.11em;
         text-transform: uppercase;
         color: grey;
-        margin-top: 165px;
+        margin-top: 140px;
         margin-left: 220px;
         margin-bottom: 50px;
     }
@@ -90,7 +90,7 @@
     }
     .images-potition-2{
         height: 715px;
-        margin-top: 165px;
+        margin-top: 140px;
         width: 518px;
         margin-left: 189px;
     }
@@ -116,7 +116,7 @@
     .text-body{
         font-family: Helvetica, sans-serif;
         font-size: 22px;
-        line-height: 90%;
+        line-height: 110%;
         letter-spacing: -0.01em;
         margin-right: 140px;
         margin-left: 100;
@@ -220,8 +220,8 @@
         font-size: 64px;
         line-height: 85%;
         text-align: center;
-        margin-left: 370px;
-        margin-right: 370px;
+        margin-left: 320px;
+        margin-right: 320px;
         margin-top: 20px;
         margin-bottom: 150px;
     }
@@ -264,6 +264,7 @@
         font-weight: normal;
         font-size: 20px;
         line-height: 115%;
+        margin-right: -25;
     }
     .box-shadow{
         box-shadow: 10px 10px 50px 3px rgba(39, 92, 141, 0.1);
@@ -307,7 +308,7 @@
         font-size: 25px;
         line-height: 110%;
         letter-spacing: -0.01em;
-        margin-right: 625px;
+        margin-right: 555px;
         margin-left: 80px;
         margin-bottom: 50px;
     }
@@ -331,6 +332,7 @@
         font-size: 18px;
         line-height: 110%;
         margin-left: -80px;
+        margin-right: 6px;
     }
     .concept-text-3{
         font-family: Helvetica, sans-serif;
@@ -403,7 +405,7 @@
         font-style: normal;
         font-weight: normal;
         font-size: 25px;
-        line-height: 120%;
+        line-height: 90%;
         text-align: center
     }
     .text-2{
