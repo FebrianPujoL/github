@@ -526,6 +526,8 @@
         margin-bottom: 33px;
         margin-top: 81px;
         font-weight: bold;
+        color: white;
+        opacity: 0.5;
     }
     .footer-body-text{
         text-decoration: none;
