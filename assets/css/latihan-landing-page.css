@@ -95,7 +95,7 @@
         margin-left: 189px;
     }
     .background-2{
-        background: #D8F6FF;
+        background: linear-gradient(359deg, #FFFFFF -45.04%, rgba(255, 255, 255, 0) 102.87%), #D8F6FF;
         margin-top: 790px;
     }
     .row-position{
@@ -550,5 +550,8 @@
         margin-top: 15px;
         margin-left: 300px;
         color: white;
+    }
+    .border-card-2{
+        border: 1px solid white;
     }
 }
