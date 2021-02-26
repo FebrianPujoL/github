@@ -1,4 +1,8 @@
 @media(min-width:1440px){
+    body{
+        font-family: Helvetica, sans-serif;
+        font-style: normal;
+    }
     .background{
         background: linear-gradient(to bottom,  #FFF4D4 0%, white 100%);
         border-radius: 0px 0px 0px 130px;
@@ -20,8 +24,6 @@
         margin-left: 25px;
     }
     .design-inspiration{
-        font-family: Helvetica, sans-serif;
-        font-style: normal;
         font-weight: 500;
         font-size: 21px;
         line-height: 120%;
@@ -35,8 +37,6 @@
         margin-bottom: 50px;
     }
     .convallis{
-        font-family: Helvetica, sans-serif;
-        font-style: normal;
         font-weight: bold;
         font-size: 70px;
         line-height: 110%;
@@ -49,15 +49,11 @@
     .button-getin{
         margin-left: 220px;
         padding: 11px 40px;
-        font-family: Helvetica, sans-serif;
-        font-style: normal;
         font-weight: bold;
         margin-top: 32px;
         font-size: 18px;
     }
     .text-1{
-        font-family: Helvetica, sans-serif;
-        font-style: normal;
         font-weight: bold;
         font-size: 28px;
         line-height: 110%;
@@ -72,8 +68,6 @@
         width: 50px;
     }
     .text-CEO{
-        font-family: Helvetica, sans-serif;
-        font-style: normal;
         font-weight: bold;
         font-size: 20px;
         line-height: 120%;
@@ -81,8 +75,6 @@
         margin-top: -13px;
     }
     .text-CEO-1{
-        font-family: Helvetica, sans-serif;
-        font-style: normal;
         font-weight: normal;
         font-size: 15px;
         line-height: 100%;
@@ -103,8 +95,6 @@
         margin-top: -420px;
     }
     .text-title{
-        font-family: Helvetica, sans-serif;
-        font-style: normal;
         font-weight: bold;
         font-size: 50px;
         letter-spacing: -0.045em;
@@ -114,7 +104,6 @@
         margin-top: -75px;
     }
     .text-body{
-        font-family: Helvetica, sans-serif;
         font-size: 22px;
         line-height: 110%;
         letter-spacing: -0.01em;
@@ -136,7 +125,6 @@
         margin-top: 115px;
     } 
     .design-text-title{
-        font-family: Helvetica, sans-serif;
         font-weight: bold;
         font-size: 43px;
         line-height: 110%;
@@ -144,7 +132,6 @@
         margin-bottom: 50px;
     }
     .design-text-body{
-        font-family: Helvetica, sans-serif;
         font-weight: normal;
         font-size: 23px;
         line-height: 110%;
@@ -155,7 +142,6 @@
     }
     .link-experience{
         font-weight: bold;
-        font-family: Helvetica, sans-serif;
         margin-bottom: 150px;
     }
     .images-design{
@@ -171,7 +157,6 @@
         margin-bottom: 150px;
     }
     .design-text-title-2{
-        font-family: Helvetica, sans-serif;
         font-weight: bold;
         font-size: 43px;
         line-height: 95%;
@@ -180,7 +165,6 @@
         margin-left: 80px;
     }
     .design-text-body-2{
-        font-family: Helvetica, sans-serif;
         font-weight: normal;
         font-size: 23px;
         line-height: 110%;
@@ -191,13 +175,10 @@
     }
     .link-experience-2{
         font-weight: bold;
-        font-family: Helvetica, sans-serif;
         margin-bottom: 150px;
         margin-left: 80px;
     }
     .Design-concept{
-        font-family: Helvetica, sans-serif;
-        font-style: normal;
         font-weight: 500;
         font-size: 23px;
         line-height: 100%;
@@ -214,8 +195,6 @@
         margin-top: -2px;
     }
     .concept-text{
-        font-family: Helvetica, sans-serif;
-        font-style: normal;
         font-weight: bold;
         font-size: 64px;
         line-height: 85%;
@@ -244,23 +223,17 @@
         height: 100%;
     }
     .card-title-name{
-        font-family: Helvetica, sans-serif;
-        font-style: normal;
         font-weight: 500;
         font-size: 44px;
         line-height: 110%;
         margin-bottom: 25px;
     }
     .card-body{
-        font-family: Helvetica, sans-serif;
-        font-style: normal;
         font-weight: normal;
         font-size: 24px;
         line-height: 130%;
     }
     .card-text-edit{
-        font-family: Helvetica, sans-serif;
-        font-style: normal;
         font-weight: normal;
         font-size: 20px;
         line-height: 115%;
@@ -278,8 +251,6 @@
         font-size: 15px;
     }
     .Design-concept-2 {
-        font-family: Helvetica, sans-serif;
-        font-style: normal;
         font-weight: 500;
         font-size: 24px;
         line-height: 100%;
@@ -290,8 +261,6 @@
         padding-left: 80px;
     }
     .concept-text-2{
-        font-family: Helvetica, sans-serif;
-        font-style: normal;
         font-weight: bold;
         font-size: 50px;
         line-height: 85%;
@@ -303,7 +272,6 @@
         margin-bottom: 50px;
     }
     .design-text-body-3{
-        font-family: Helvetica, sans-serif;
         font-weight: normal;
         font-size: 25px;
         line-height: 110%;
@@ -318,16 +286,12 @@
         height: 40px;
     }
     .title-icon{
-        font-family: Helvetica, sans-serif;
-        font-style: normal;
         font-weight: bold;
         font-size: 26px;
         line-height: 120%;
         margin-left: -80px;
     }
     .body-icon{
-        font-family: Helvetica, sans-serif;
-        font-style: normal;
         font-weight: normal;
         font-size: 18px;
         line-height: 110%;
@@ -335,8 +299,6 @@
         margin-right: 6px;
     }
     .concept-text-3{
-        font-family: Helvetica, sans-serif;
-        font-style: normal;
         font-weight: bold;
         font-size: 50px;
         line-height: 110%;
@@ -378,8 +340,6 @@
             border: none;
     }
     .Design-concept-3{
-        font-family: Helvetica, sans-serif;
-        font-style: normal;
         font-weight: normal;
         font-size: 26px;
         line-height: 110%;
@@ -392,8 +352,6 @@
         margin-bottom: 100px;
     }
     .Card-people{
-        font-family: Helvetica, sans-serif;
-        font-style: normal;
         font-weight: bold;
         font-size: 25px;
         text-align: center;
@@ -401,16 +359,12 @@
         margin-top: 25px;
     }
     .Card-people-2{
-        font-family: Helvetica, sans-serif;
-        font-style: normal;
         font-weight: normal;
         font-size: 25px;
         line-height: 90%;
         text-align: center
     }
     .text-2{
-        font-family: Helvetica, sans-serif;
-        font-style: normal;
         font-weight: bold;
         font-size: 31px;
         line-height: 110%;
@@ -427,16 +381,12 @@
         margin-bottom: 200px;
     }
     .title-icon-2{
-        font-family: Helvetica, sans-serif;
-        font-style: normal;
         font-weight: bold;
         font-size: 20px;
         line-height: 120%;
         margin-left: -70px;
     }
     .body-icon-2{
-        font-family: Helvetica, sans-serif;
-        font-style: normal;
         font-weight: normal;
         font-size: 15px;
         line-height: 100%;
@@ -451,8 +401,6 @@
         margin-top: -600px;
     }
     .text-i-feel{
-        font-family: Helvetica, sans-serif;
-        font-style: normal;
         font-weight: bold;
         font-size: 31px;
         line-height: 110%;
@@ -467,8 +415,6 @@
         margin-bottom: 225px;
     }
     .text-3{
-        font-family: Helvetica, sans-serif;
-        font-style: normal;
         font-weight: bold;
         font-size: 31px;
         line-height: 110%;
@@ -478,8 +424,6 @@
         margin-right: 75px;
     }
     .text-lorem{
-        font-family: Helvetica, sans-serif;
-        font-style: normal;
         font-weight: normal;
         font-size: 22px;
         line-height: 130%;
@@ -495,17 +439,14 @@
     .button-getin-2{
         margin-left: 140px;
         padding: 12px 40px;
-        font-family : Helvetica, sans-serif;
-        font-style: normal;
         font-weight: bold;
         margin-top: -130px;
         font-size: 20px;
     }
     .background-footer{
         background: black;
-    }.footer-text{
-        font-family: Helvetica, sans-serif;
-        font-style: normal;
+    }
+    .footer-text{
         font-weight: normal;
         font-size: 22px;
         line-height: 130%;
