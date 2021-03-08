@@ -3,27 +3,27 @@
         font-family: Helvetica, sans-serif;
         font-style: normal;
     }
-    .background{
+    .header--background{
         background: linear-gradient(to bottom,  #FFF4D4 0%, white 100%);
         border-radius: 0px 0px 0px 130px;
         height: 100%;
     }
-    .logo{
+    .header__navbar--logo{
         margin-left: 35px;
         margin-top: 20px;
     }
-    .nav-text{
+    .header__nav--text{
         color: #B3ACA2;
         font-weight: bold;
     }
-    .nav-text-2{
+    .header__nav--text-2{
         font-weight: bold;
         border: solid 1px red;
         margin-right: 30px;
         border-radius: 10px;
         margin-left: 25px;
     }
-    .design-inspiration{
+    .container-fluid--design-inspiration{
         font-weight: 500;
         font-size: 21px;
         line-height: 120%;
@@ -36,7 +36,7 @@
         margin-left: 220px;
         margin-bottom: 50px;
     }
-    .convallis{
+    .container-fluid--convallis{
         font-weight: bold;
         font-size: 70px;
         line-height: 110%;
@@ -46,14 +46,14 @@
         color: black;
         margin-left: 220px;
     }
-    .button-getin{
+    .container-fluid__button--getin{
         margin-left: 220px;
         padding: 11px 40px;
         font-weight: bold;
         margin-top: 32px;
         font-size: 18px;
     }
-    .text-1{
+    .container-fluid--text-1{
         font-weight: bold;
         font-size: 28px;
         line-height: 110%;
@@ -63,38 +63,38 @@
         margin-right: 75px;
         margin-bottom: 25px;
     }
-    .img-potition{
+    .container-fluid__images--potition{
         margin-left: 220px;
         width: 50px;
     }
-    .text-CEO{
+    .container-fluid--text-CEO{
         font-weight: bold;
         font-size: 20px;
         line-height: 120%;
         margin-left: 32px;
         margin-top: -13px;
     }
-    .text-CEO-1{
+    .container-fluid--text-CEO-1{
         font-weight: normal;
         font-size: 15px;
         line-height: 100%;
         margin-left: 32px;
     }
-    .images-potition-2{
+    .container-fluid__images--potition-2{
         height: 715px;
         margin-top: 140px;
         width: 518px;
         margin-left: 189px;
     }
-    .background-2{
+    .section-main--background-2{
         background: linear-gradient(359deg, #FFFFFF -45.04%, rgba(255, 255, 255, 0) 102.87%), #D8F6FF;
         margin-top: 790px;
     }
-    .row-position{
+    .section-main--row-position{
         float: left;
         margin-top: -420px;
     }
-    .text-title{
+    .section-main__title--text{
         font-weight: bold;
         font-size: 50px;
         letter-spacing: -0.045em;
@@ -103,7 +103,7 @@
         margin-left: 100px;
         margin-top: -75px;
     }
-    .text-body{
+    .section-main__body--text{
         font-size: 22px;
         line-height: 110%;
         letter-spacing: -0.01em;
@@ -111,27 +111,27 @@
         margin-left: 100;
         color: #23242A;
     }
-    .peter-olexa{
+    .section-main--peter-olexa{
         height: 400px;
         width: 720px;
         margin-top: 113px;
         margin-bottom:120px
     }
-    .people-images{
+    .section-main__images--people{
         margin-top: 185px;
         height: 400px;
         width: 321px;
         margin-left: 80px;
         margin-top: 115px;
     } 
-    .design-text-title{
+    .container__title--design-text{
         font-weight: bold;
         font-size: 43px;
         line-height: 110%;
         margin-top: 200px;
         margin-bottom: 50px;
     }
-    .design-text-body{
+    .container__body--design-text{
         font-weight: normal;
         font-size: 23px;
         line-height: 110%;
@@ -140,23 +140,23 @@
         margin-top: 15px;
         margin-bottom: 50px;
     }
-    .link-experience{
+    .container__link--experience{
         font-weight: bold;
         margin-bottom: 150px;
     }
-    .images-design{
+    .container__images--design{
         height: 579px;
         width: 515px;
         margin-top: 20px;
         margin-left: 80px;
     }
-    .images-watches{
+    .container__images--watches{
         height: 579px;
         width: 515px;
         margin-top: 150px;
         margin-bottom: 150px;
     }
-    .design-text-title-2{
+    .container__title--design-text-2{
         font-weight: bold;
         font-size: 43px;
         line-height: 95%;
@@ -164,7 +164,7 @@
         margin-bottom: 50px;
         margin-left: 80px;
     }
-    .design-text-body-2{
+    .container__body--design-text-2{
         font-weight: normal;
         font-size: 23px;
         line-height: 110%;
@@ -173,12 +173,12 @@
         margin-left: 80px;
         margin-bottom: 50px;
     }
-    .link-experience-2{
+    .container__link--experience-2{
         font-weight: bold;
         margin-bottom: 150px;
         margin-left: 80px;
     }
-    .Design-concept{
+    .section__Design--concept{
         font-weight: 500;
         font-size: 23px;
         line-height: 100%;
@@ -188,13 +188,13 @@
         margin-top: 200px;
         margin-bottom: 45px;
     }
-    .line-img{
+    .section-benefit__images--line{
         margin-left: 286px;
         width: 366px;
         height: 460px;
         margin-top: -2px;
     }
-    .concept-text{
+    .section--concept-text{
         font-weight: bold;
         font-size: 64px;
         line-height: 85%;
@@ -204,53 +204,53 @@
         margin-top: 20px;
         margin-bottom: 150px;
     }
-    .card-potition{
+    .header-design__card--potition{
         margin-left: 150px;
         margin-right: 15px;
         border: none;
         margin-bottom: 200px;
         box-shadow: 10px 10px 50px 3px rgb(39 92 141 / 10%);
     }
-    .card-postiton-2 {
+    .header-design__card--potition-2{
         margin-right: 15px;
         margin-bottom: 200px;
         border: none;
         box-shadow: 10px 10px 50px 3px rgb(39 92 141 / 10%);
     }
-    .background-radius{
+    .section-benefit__background--radius{
         background: linear-gradient(to bottom, #FFF4D4 0%, white 100%);
         border-radius: 15px 15px 0px 130px;
         height: 100%;
     }
-    .card-title-name{
+    .section-design__card--title-name{
         font-weight: 500;
         font-size: 44px;
         line-height: 110%;
         margin-bottom: 25px;
     }
-    .card-body{
+    .header-design__card--body{
         font-weight: normal;
         font-size: 24px;
         line-height: 130%;
     }
-    .card-text-edit{
+    .header-design__card--text-edit{
         font-weight: normal;
         font-size: 20px;
-        line-height: 115%;
-        margin-right: -25;
+        line-height: 130%;
+        margin-right: -10;
     }
-    .box-shadow{
+    .container-fluid--box-shadow{
         box-shadow: 10px 10px 50px 3px rgba(39, 92, 141, 0.1);
     }
-    .link-card{
+    .header-design__link--card{
         color: rgba(17, 19, 30, 0.2);
         text-decoration: none;
         font-size: 15px;
     }
-    .link-card-2{
+    .header-design__link--card-2{
         font-size: 15px;
     }
-    .Design-concept-2 {
+    .section-benefit__Design--concept-2 {
         font-weight: 500;
         font-size: 24px;
         line-height: 100%;
@@ -260,7 +260,7 @@
         padding-top: 125px;
         padding-left: 80px;
     }
-    .concept-text-2{
+    .section-benefit__text--concept-2{
         font-weight: bold;
         font-size: 50px;
         line-height: 85%;
@@ -271,7 +271,7 @@
         padding-left: 80px;
         margin-bottom: 50px;
     }
-    .design-text-body-3{
+    .section-benefit__body-text--design-3{
         font-weight: normal;
         font-size: 25px;
         line-height: 110%;
@@ -280,25 +280,25 @@
         margin-left: 80px;
         margin-bottom: 50px;
     }
-    .images-icon{
+    .container__images--icon{
         margin-left: 70px;
         margin-top: 15px;
         height: 40px;
     }
-    .title-icon{
+    .container__title--icon{
         font-weight: bold;
         font-size: 26px;
         line-height: 120%;
         margin-left: -80px;
     }
-    .body-icon{
+    .container__body--icon{
         font-weight: normal;
         font-size: 18px;
         line-height: 110%;
         margin-left: -80px;
         margin-right: 6px;
     }
-    .concept-text-3{
+    .section-feature--concept-text-3{
         font-weight: bold;
         font-size: 50px;
         line-height: 110%;
@@ -308,7 +308,7 @@
         padding-left: 110px;
         margin-bottom: 125px;
     }
-    .card-concept-1{
+    .container-fluid__card--concept-1{
         margin-left: 250px;
         margin-right: 25px;
         border: none;
@@ -317,7 +317,7 @@
         padding-left: 0px;
         padding-right: 0px;
     }
-    .card-concept-2{
+    .container-fluid__card--concept-2{
         margin-left: 0px;
         margin-right: 25px;
         border: none;
@@ -326,20 +326,20 @@
         padding-left: 0px;
         padding-right: 0px;
     }
-    .link-potition{
+    .section-feature__link--potition{
         margin-top: 100px;
         margin-left: 248px;
     }
-    .link-card-3{
+    .section-feature__link--card-3{
         font-size: 15px;
         color: rgba(17, 19, 30, 0.2);
         text-decoration: none;
         font-size: 15px;
     }
-    .border-card{
+    .section-feature__card--border{
             border: none;
     }
-    .Design-concept-3{
+    .section-leadership--Design-concept-3{
         font-weight: normal;
         font-size: 26px;
         line-height: 110%;
@@ -351,20 +351,20 @@
         margin-left: 185px;
         margin-bottom: 100px;
     }
-    .Card-people{
+    .section-leadership__card--people{
         font-weight: bold;
         font-size: 25px;
         text-align: center;
         line-height: 120%;
         margin-top: 25px;
     }
-    .Card-people-2{
+    .section-leadership__card--people-2{
         font-weight: normal;
         font-size: 25px;
         line-height: 90%;
         text-align: center
     }
-    .text-2{
+    .section-review--text-2{
         font-weight: bold;
         font-size: 31px;
         line-height: 110%;
@@ -374,33 +374,33 @@
         margin-right: 424px;
         margin-bottom: 20px;
     }
-    .images-icon-2{
+    .section-review__images--icon-2{
         margin-left: 350px;
         margin-top: 15px;
         height: 56px;
         margin-bottom: 200px;
     }
-    .title-icon-2{
+    .section-review__title--icon-2{
         font-weight: bold;
         font-size: 20px;
         line-height: 120%;
         margin-left: -70px;
     }
-    .body-icon-2{
+    .section-review__body--icon-2{
         font-weight: normal;
         font-size: 15px;
         line-height: 100%;
         margin-left: -70px;
     }
-    .img-line-2{
+    .section-review__images--line-2{
         margin-left: 225px;
         height: 384px;
         width: 251px;
     }
-    .line-4{
+    .section-review__images--line-4{
         margin-top: -600px;
     }
-    .text-i-feel{
+    .section-review--text-i-feel{
         font-weight: bold;
         font-size: 31px;
         line-height: 110%;
@@ -410,11 +410,11 @@
         margin-bottom: 20px;
         margin-right: 435px;
     }
-    .background-3{
+    .section-join--background-3{
         background: #FFF4D4;
         margin-bottom: 225px;
     }
-    .text-3{
+    .section-join--text-3{
         font-weight: bold;
         font-size: 31px;
         line-height: 110%;
@@ -423,7 +423,7 @@
         margin-top: 100px;
         margin-right: 75px;
     }
-    .text-lorem{
+    .section-join--text-lorem{
         font-weight: normal;
         font-size: 22px;
         line-height: 130%;
@@ -431,22 +431,22 @@
         margin-bottom: 90px;
         margin-right: 80px;
     }
-    .img-line-3{
+    .section-join__images--line-3{
         width: 273px;
         margin-left: 155px;
         height: 236px;
     }
-    .button-getin-2{
+    .section-join__button--getin-2{
         margin-left: 140px;
         padding: 12px 40px;
         font-weight: bold;
         margin-top: -130px;
         font-size: 20px;
     }
-    .background-footer{
+    .footer--background{
         background: black;
     }
-    .footer-text{
+    .footer--text{
         font-weight: normal;
         font-size: 22px;
         line-height: 130%;
@@ -457,37 +457,37 @@
         opacity: 0.5;
         color: white;
     }
-    .logo-footer{
+    .footer--logo{
         margin-left: 140px;
         color: white;
         margin-top: 75px;
         opacity: 1
     }
-    .list-footer{
+    .footer--list{
         margin-bottom: 33px;
         margin-top: 81px;
         font-weight: bold;
         color: white;
         opacity: 0.5;
     }
-    .footer-body-text{
+    .footer__body--text{
         text-decoration: none;
         color: white;
     }
-    .footer-body-text-2{
+    .footer__body--text-2{
         color:#0E6FFF ;
         text-decoration: none;
     }
-    .border-footer{
+    .footer--border{
         border-top: solid 1px;
     }
-    .footer-end{
+    .footer--end{
         margin-left: 80px;
         margin-top: 15px;
         opacity: 0.5;
         color: white;
     }
-    .footer-end-2{
+    .footer--end-2{
         margin-top: 15px;
         margin-left: 300px;
         color: white;
